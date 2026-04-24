@@ -32,4 +32,4 @@ Local food businesses in Ethiopia often struggle with:
 
 ---
 **Internship:** Future Interns (UI/UX Design)
-**CIN:** [Insert Your CIN Here]
+**CIN:** [FIT/MAR26/UX2076]
