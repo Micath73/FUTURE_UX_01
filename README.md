@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 **EthioFill** is a high-conversion UI/UX solution designed to bring Ethiopia’s rich culinary heritage into the modern digital economy. This project focuses on solving the "trust and timing" gap in traditional food delivery for urban professionals.
 
-![EthioFill Hero Design](EthioFill-Final.png)
+![EthioFill Hero Design](EthioFill-heroSection.png)
 
 ---
 
