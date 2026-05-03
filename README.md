@@ -1,38 +1,26 @@
-# 🇪🇹 Task 1: EthioFill – Traditional Cuisine Redesign
+# 🇪🇹 Future Interns | UI/UX Task 2: EthioFill
 
 ## 📌 Project Overview
-**EthioFill** is a high-conversion UI/UX solution designed to bring Ethiopia’s rich culinary heritage into the modern digital economy. This project focuses on solving the "trust and timing" gap in traditional food delivery.
+**EthioFill** is a high-conversion UI/UX solution designed to bring Ethiopia’s rich culinary heritage into the modern digital economy. This project focuses on solving the "trust and timing" gap in traditional food delivery for urban professionals.
+
+![EthioFill Hero Design](EthioFill-Final.png)
 
 ---
 
 ## 👤 User Persona: "Abebe" (The Busy Professional)
-* **Role:** Junior Accountant / Office Worker.
-* **The Goal:** Wants a healthy, traditional "home-cooked" lunch without leaving the office.
-* **Pain Points:** Long phone wait times, inconsistent menu availability, and lack of delivery tracking.
-* **The Solution:** A simplified 3-tap ordering system with clear "Freshness" indicators.
+* **The Goal:** Wants a healthy, traditional lunch without leaving the office.
+* **The Solution:** A simplified 3-tap ordering system with a "CEO-level" professional interface.
 
 ---
 
 ## 🎨 Visual Identity & Habesha Aesthetic
-To maintain a cultural connection while looking "Tech-Forward," I chose a palette inspired by the cuisine itself:
-* **Berbere Red (#E32227):** Used for Primary CTAs (Call to Action) to trigger appetite and energy.
-* **Teff Brown (#8B4513):** Used for backgrounds and text to symbolize authenticity and the earth.
-* **Gold (#FFD700):** Used for highlights to represent premium quality.
+* **Berbere Red (#E32227):** Primary CTA color to trigger appetite and energy.
+* **Teff Brown (#8B4513):** Symbolizing authenticity and grounding the design.
+* **12-Column Grid:** A mathematical dashed-line system ensuring professional alignment.
 
 ---
 
-## 🚀 UX Strategy for Conversion
-1.  **Appetite-First Hero:** Large, high-fidelity imagery of *Mahaberawi* platters to reduce decision fatigue.
-2.  **The "3-Step Flow":** Select Cuisine -> Customize Sides -> Instant Checkout.
-3.  **Trust Signals:** Badges for "100% Pure Teff" and "Community Verified Traditional Recipes."
-
----
-
-## 📂 Deliverables
-* **Design Tool:** Figma
-* **Deadline:** May 18th, 2026
-* **Status:** 🏗️ Infrastructure Set / 🎨 Hero Image Designed
-
----
-**Internship:** Future Interns (UI/UX Design)
-**CIN:** [FIT/MAR26/UX2076]
+## 📂 Internship Details
+* **Status:** 🏗️ Task 2 Hero Section Completed
+* **Deadline:** May 18th, 2026 (Task 2) | June 1st, 2026 (Final)
+* **CIN:** [FIT/MAR26/UX2076]
