@@ -22,5 +22,5 @@
 
 ## 📂 Internship Details
 * **Status:** 🏗️ Task 2 Hero Section Completed
-* **Deadline:** May 18th, 2026 (Task 2) | June 1st, 2026 (Final)
+* **Deadline:** May 18th, 2026 (Task 1) | June 1st, 2026 (Final)
 * **CIN:** [FIT/MAR26/UX2076]
