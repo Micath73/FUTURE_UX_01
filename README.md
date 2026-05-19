@@ -21,7 +21,7 @@
 ---
 
 ## 🔗 Live Interactive Prototype
-* [**👉 Click here to view the Interactive Figma Prototype (Optimized View)**](PASTE_YOUR_COPIED_FIGMA_LINK_HERE)
+* [**👉 Click here to view the Interactive Figma Prototype (Optimized View)**]([PASTE_YOUR_COPIED_FIGMA_LINK_HERE](https://www.figma.com/proto/4j6AS3GK1uuRPwvge7fhZ8/Future_Interns_Task_1_EthioFill?node-id=147-26&p=f&t=SInMrNvJVupulH0Y-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=147%3A26))
 
 ---
 
